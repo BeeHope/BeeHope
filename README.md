@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=Asma%20Daoui&fontSize=60&fontColor=FF0000&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Blue%20Team%20%7C%20CTF%20Player%20%7C%20Automation&descAlignY=55&descColor=FF6347"/>
+![Header](https://raw.githubusercontent.com/BeeHope/BeeHope/main/header.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BeeHope&color=FF0000&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-daoui-8804b328a)
@@ -9,7 +9,9 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🔐+Cybersecurity+Engineering+Student;🛡️+Blue+Team+%7C+Digital+Forensics+%7C+CTF;⚙️+Kubernetes+%7C+VMware+vSphere+%7C+Automation;☕+Coffee.exe+is+running...+please+wait" alt="Typing SVG" />
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🔐+Cybersecurity+Engineering+Student;🛡️+Blue+Team+%7C+Digital+Forensics+%7C+CTF;⚙️+Kubernetes+%7C+VMware+vSphere+%7C+Automation;☕+Coffee.exe+is+running...+please+wait" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -33,8 +35,8 @@ AsmaDaoui.sayHi();
 ```
 
 - 🏁 Active **CTF competitor** — forensic, vulnerability analysis & defensive security
--🐛 Found my first bug on HackerOne — reported & validated (Deprecated endpoint, marked as duplicate)
-- 💼 Open for a **cybersecurity internship** 
+- 🐛 Found my first bug on HackerOne — reported & validated (Deprecated endpoint, marked as duplicate)
+- 💼 Open for a **cybersecurity internship**
 - 📫 **asmadaoui6@gmail.com**
 
 ---
@@ -128,7 +130,7 @@ AsmaDaoui.sayHi();
 
 <div align="center">
 
-![Snake animation](https://github.com/BeeHope/asmadaoui/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/BeeHope/BeeHope/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
