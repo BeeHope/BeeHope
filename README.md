@@ -35,7 +35,6 @@ AsmaDaoui.sayHi();
 ```
 
 - 🏁 Active **CTF competitor** — forensic, vulnerability analysis & defensive security
-- 🐛 Found my first bug on HackerOne — reported & validated (Deprecated endpoint, marked as duplicate)
 - 💼 Open for a **cybersecurity internship**
 - 📫 **asmadaoui6@gmail.com**
 
